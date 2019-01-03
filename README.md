@@ -11,3 +11,5 @@ WIFI модуль на базе NodeMcu (ESP8266) как охранно пожа
 3. https://ru.aliexpress.com/item/5pcs-lot-MQ-9-combustible-gas-sensor-detects-carbon-monoxide-alarm-module/32270628311.html?spm=a2g0s.9042311.0.0.274233ed2grkr5
 
 ![scheme](https://github.com/leech001/Security-fire-alarm-ESP8266/blob/master/Scheme/Schematic_FireAlarm-ESP8266.png)
+
+![scheme](https://github.com/leech001/Security-fire-alarm-ESP8266/blob/master/3D_model/up.stl)
